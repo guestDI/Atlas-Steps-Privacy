@@ -48,6 +48,6 @@ If this policy changes, we'll update the date above. Because the app collects no
 
 ## Contact
 
-Questions? Email [your contact email].
+Questions? Email support@nexlifypal.com.
 
-[Your name or company name]
+Dmitry Ihnatovich nexlifypal.com
