@@ -1,4 +1,4 @@
-# Privacy Policy — Personal Atlas
+# Atlas Steps: Walk the World - Privacy
 
 Last updated: 17 November 2026
 
